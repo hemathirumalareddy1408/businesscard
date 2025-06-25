@@ -1,0 +1,17 @@
+.me{
+width: 150px; 
+}
+.divclass{
+    color: black;
+    background-color: #ddebfe;
+    padding: 20px;
+    display: flex;
+    justify-content:space-around;
+    display: flex;
+    margin: 0px auto;
+    text-align: center;
+    border-bottom: 6px solid #d8cefe;
+}
+body{
+    margin: 20px;
+}
